@@ -1,5 +1,9 @@
 # Pieter
+/task*
 .vscode
+imports.py
+calms*
+.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
