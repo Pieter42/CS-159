@@ -2,6 +2,7 @@
 /task*
 .vscode
 imports.py
+installs.sh
 calms*
 .DS_Store
 
